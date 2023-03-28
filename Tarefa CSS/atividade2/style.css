@@ -1,0 +1,25 @@
+section {
+	width: 350px;
+	height: 1000px;
+}
+
+div {
+	margin-bottom: 10px ;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+
+ }
+
+span {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	height: 50px;
+	width: 50px;
+  border: 1px solid black;
+  border-radius: 100%;
+  box-shadow: 3px 3px 3px rgba(153, 51, 153, 0.5);
+	
+}

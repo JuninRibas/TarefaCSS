@@ -1,0 +1,6 @@
+.dog:hover{
+
+    margin-top: 1em;
+	transform:rotate(45deg);
+	transition: all 0.5s ease-in-out;
+}
